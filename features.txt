@@ -1,0 +1,6 @@
+Feature 1: The speed of the Aliens increases if any alien dies. 
+
+Whenever a bolt collides with an alien, I increase the speed of the aliens by multiplying the time factor with 0.97.
+
+
+Feature 2: Sounds added to when an Alien shoots a bolt, when a bolt bollides with the Ship, and when the bolt collides with the Alien. 
